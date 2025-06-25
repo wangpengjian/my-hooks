@@ -1,6 +1,6 @@
-# encode-hooks
+# my-hooks
 
-印客学院 React 业务 Hooks
+React 业务 Hooks
 
 ## ⛰️ 能力支持
 
